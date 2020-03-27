@@ -37,6 +37,7 @@ class Song
       end 
       return genres_hash
     end 
+    return genres_hash
  end 
  
 end 
