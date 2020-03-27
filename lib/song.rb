@@ -40,6 +40,9 @@ class Song
     return genres_hash
  end 
  
+ def self.artist_count 
+   artists_hash
+ 
 end 
 
  
