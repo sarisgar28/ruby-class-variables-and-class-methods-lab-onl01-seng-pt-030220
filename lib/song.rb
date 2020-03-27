@@ -35,8 +35,8 @@ class Song
       else 
         genres_hash[genre] += 1 
       end 
-      return genres_hash
     end 
+    return genres_hash
  end 
  
 end 
